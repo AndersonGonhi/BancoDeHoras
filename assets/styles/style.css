@@ -1,0 +1,18 @@
+li{
+  list-style: none;
+  font-size: 20px;
+  background-color: yellowgreen;
+  width: max-content;
+  padding: 20px;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+div{
+  display: flex;
+  align-items: center;
+}
